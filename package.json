@@ -1,0 +1,14 @@
+{
+  "name": "@darkobits/conventional-changelog-preset",
+  "version": "0.1.0",
+  "license": "Hippocratic",
+  "author": "darkobits",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkobits/conventional-changelog-preset"
+  },
+  "main": "changelog-preset.js",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^6.1.0"
+  }
+}
